@@ -4,11 +4,11 @@
     gap: 16px;
     justify-items: center;
     align-items: center;
-    background-color: blueviolet;
+    background-color: red;
 }
 
 .c-plate {
-    border: black solid 2px;
+    border: black solid 1px;
     width: 90px;
     height: 90px;
 }
