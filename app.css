@@ -1,0 +1,14 @@
+.table {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 16px;
+    justify-items: center;
+    align-items: center;
+}
+
+.c-plate {
+    border: black solid 1px;
+    width: 90px;
+    height: 90px;
+}
+
